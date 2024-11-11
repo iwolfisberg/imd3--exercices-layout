@@ -1,4 +1,4 @@
-# Exercice layout - Flexbox
+# Exercices layout - Flexbox & Bootstrap Grid
 
 ## Prérequis
 
@@ -16,6 +16,8 @@ Dans un premier temps, concentrez-vous sur la version Desktop. Si vous avez le t
 ### Deuxième exercice
 
 Codez le [responsive layout](https://www.figma.com/design/5f0NdESDxIKLXNxyMLg57u/Exercices-layout?node-id=1-66&m=dev) suivant à l'aide de [Bootstrap Grid](https://getbootstrap.com/docs/5.3/layout/grid/).
+
+N'oubliez pas d'installer Bootstrap !
 
 ## Installation
 
