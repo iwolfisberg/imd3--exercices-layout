@@ -36,19 +36,12 @@ npm install
 
 Compiler la SCSS, aggréger le JS, lancer le serveur et écouter les changements
 
-````
-
+```
 npm run dev
-
 ```
 
 Compiler pour la production
 
 ```
-
 npm run build
-
 ```
-
-```
-````
