@@ -27,7 +27,7 @@ git clone git@github.com:iwolfisberg/imd3--exercices-layout.git imd3--exercices-
 
 Se rendre dans le dossier du projet, puis installer les dépendances avec NPM
 
-````
+```
 cd imd3--exercices-layout
 npm install
 ```
@@ -51,3 +51,4 @@ npm run build
 ```
 
 ```
+````
