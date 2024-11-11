@@ -30,7 +30,7 @@ Se rendre dans le dossier du projet, puis installer les dépendances avec NPM
 ````
 cd imd3--exercices-layout
 npm install
-```344
+```
 
 ## Commandes
 
